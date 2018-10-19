@@ -12,4 +12,4 @@ This api make a get and post request for the model Student
 
 # How to deploy?
 
-Clone this repo, cd into it, then run sudo python manage.py runserver
+Clone this repo, cd into it, then run python manage.py runserver
