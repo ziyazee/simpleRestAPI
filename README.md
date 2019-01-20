@@ -1,5 +1,5 @@
 # A simple Rest API using Django framework
-This api make a get and post request for the model Student
+This api makes a get and post request for the model Student
 
 # Language
 
